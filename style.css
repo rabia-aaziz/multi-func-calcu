@@ -1,0 +1,57 @@
+body {
+    background-color: #FD7272;
+    text-align: center;   
+    font-family: 'Orbitron', sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    margin: 1em 0;
+    font-weight: bolder;
+}
+
+.form-control {
+    display: inline-block;
+    width: 409px;
+}
+
+
+
+.add {
+    color: #FD7272;
+    font-size: 1.5em;
+}
+
+.result {
+    height: 200px;
+    overflow: hidden;
+    margin: 1.6em 0;
+}
+
+button {
+    margin: 0.5em 0.2em;
+}
+
+.clear-btn {
+    padding: 12px 100px;
+    font-weight: 900;
+}
+
+.add:hover {
+    color: #FD7272;
+}
+
+span {
+    background-color: black;
+    border: 3px double goldenrod;
+    margin: 7px;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
